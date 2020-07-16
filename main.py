@@ -1,2 +1,2 @@
-# input "character"
-#then print the variable "character" in the diamond pattern
+# input the variable "character"
+#then print "character" in the diamond pattern
